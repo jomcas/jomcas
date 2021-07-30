@@ -15,4 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+* Jomari Castañeda
+<p align="left">
+  <a href="mailto:jomarilcastaneda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/jomari-casta%C3%B1eda-37a543208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In">
+  </a>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomcas)](https://github.com/anuraghazra/github-readme-stats)
