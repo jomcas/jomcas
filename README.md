@@ -23,6 +23,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/jomari-casta%C3%B1eda-37a543208/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In">
   </a>
+   <a href="https://jomcas.github.io//">
+    <img src="https://img.shields.io/badge/jomcas.github.io-Portfolio-yellow" alt="Portfolio">
+  </a>
+
 </p>
 
 ## 🎒Education
