@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🎒Education
 * National University - Manila, Philippines
-  * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - Present
+  * Bachelor of Science in Information Technology Major in Mobile Web Applications | 2018 - 2022
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomcas)](https://github.com/anuraghazra/github-readme-stats)
